@@ -3,7 +3,7 @@
 > 🎯 Passionate about AI, data science, and building meaningful, human-centered technology.
 
 🎓 Final-year **Computer Science (Artificial Intelligence)** student at Multimedia University (MMU)  
-🧠 **Technical Intern** at IPS, MMU — focused on AI-driven medical research and Parkinson’s Disease detection  
+🧠 **AI and Research Intern** at IPS, MMU — focused on AI-driven medical research and Parkinson’s Disease detection  
 💡 **Yayasan Telekom Malaysia (TM) Scholar**  
 📍 Based in Selangor, Malaysia  
 
