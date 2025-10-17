@@ -1,8 +1,8 @@
 # 👋 Hi, I'm **Insyirah Azman**
 
-> 🎯 Passionate about AI, data science, and building meaningful ML applications.
+> 🎯 Passionate about AI, data science, and building meaningful, human-centered technology.
 
-🎓 Final-year **Computer Science (AI)** student at Multimedia University (MMU)  
+🎓 Final-year **Computer Science (Artificial Intelligence)** student at Multimedia University (MMU)  
 🧠 **Technical Intern** at IPS, MMU — focused on AI-driven medical research and Parkinson’s Disease detection  
 💡 **Yayasan Telekom Malaysia (TM) Scholar**  
 📍 Based in Selangor, Malaysia  
@@ -10,14 +10,15 @@
 ---
 
 ## 🔭 Currently Working On
-- Building my personal AI portfolio using **React & Vite**
-- Exploring **machine learning interpretability** for healthcare data
+- Developing my personal **AI & portfolio website** using React and Vite  
+- Exploring **machine learning interpretability** for healthcare data  
 - Preparing for the **Google Cloud Data Practitioner** certification
 
 ## 🌱 Currently Learning
 - **Google Cloud** for data & AI workflows  
-- **Power BI** for professional data visualization  
-- **Model evaluation and fairness** in ML research
+- **Power BI** for data visualization  
+- **Model evaluation, bias & fairness** in ML systems  
+- **React.js** and **TailwindCSS** for frontend development
 
 ---
 
@@ -28,6 +29,8 @@
 | [🛳 Titanic Survival Prediction](https://github.com/insyirahazman/titanic-ml) | Kaggle competition model with feature engineering & Random Forest | Python, scikit-learn |
 | [🧬 Parkinson’s Disease Detection](https://github.com/insyirahazman/parkinson-ai) | Deep learning gait analysis using time-series data | Python, TensorFlow |
 | [📊 BI Dataset Cleaning](https://www.kaggle.com/insyirahazman/bi-data-cleaning-and-eda) | Exploratory data analysis and preprocessing for BI data | Python, Pandas, Seaborn |
+| [💻 Portfolio Website](https://github.com/insyirahazman/my-portfolio) | Personal portfolio built using React and Vite | HTML, CSS, React.js |
+| [🚌 Bus Seat Booking System](https://github.com/insyirahazman/java-bus-booking) | Java-based desktop app for bus seat booking and management | Java, Swing |
 
 ---
 
@@ -35,20 +38,22 @@
 
 | Category              | Tools & Techniques                                                                 |
 |-----------------------|-------------------------------------------------------------------------------------|
-| **Programming**       | Python, pandas, NumPy, scikit-learn, matplotlib, seaborn                           |
-| **Modeling**          | Random Forest, Logistic Regression, XGBoost, GridSearchCV, MLPClassifier           |
+| **Programming**       | Python, Java, C++, HTML, CSS, JavaScript                                           |
+| **Data Science**      | pandas, NumPy, scikit-learn, XGBoost, TensorFlow                                   |
+| **Modeling**          | Random Forest, Logistic Regression, GridSearchCV, MLPClassifier                    |
+| **Web Development**   | React.js, TailwindCSS, Node.js, REST APIs                                          |
 | **Data Processing**   | Imputation, outlier detection, encoding, scaling, feature selection                |
-| **Visualization**     | Boxplots, heatmaps, correlation matrices, feature importance charts                |
-| **Workflow**          | Jupyter Notebook, GitHub, Markdown, technical documentation                        |
-| **Interests**         | ML for healthcare & education, interpretability, fairness, reproducible pipelines  |
+| **Visualization**     | Matplotlib, Seaborn, Power BI                                                      |
+| **Workflow**          | GitHub, Jupyter Notebook, Markdown, technical documentation                        |
+| **Research Interests**| AI for healthcare & education, interpretability, fairness, reproducible pipelines  |
 
 ---
 
 ## 🏅 Certifications & Achievements
 - 🎓 **Google Cloud Data Practitioner** *(in progress)*  
 - 🏆 **Kaggle Contributor** — Data Cleaning & EDA Projects  
-- 💼 **Yayasan Telekom Malaysia (TM) Scholar)**  
-- 📖 **Intern at Institute for Postgraduate Studies (IPS), MMU**
+- 💼 **Yayasan Telekom Malaysia (TM) Scholar**  
+- 📖 **Intern at Institute for Postgraduate Studies (IPS), MMU)**  
 
 ---
 
@@ -68,4 +73,4 @@
 
 ---
 
-> 💬 *“Driven by curiosity, grounded in ethics — building AI that helps people.”*
+> 💬 *“Driven by curiosity, grounded in ethics — building AI and software that make an impact.”*
