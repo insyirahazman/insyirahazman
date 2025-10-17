@@ -50,7 +50,7 @@
 
 ## 🏅 Certifications & Achievements
 - 🎓 **Google Cloud Data Practitioner** *(in progress)*  
-- 🏆 **Kaggle Contributor** — Data Cleaning & EDA Projects  
+- 🏆 **Kaggle Contributor** — Data Cleaning, EDA & ML Projects  
 - 💼 **Yayasan Telekom Malaysia (TM) Scholar**  
 - 📖 **Intern at Institute for Postgraduate Studies (IPS), MMU**  
 
