@@ -40,4 +40,4 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/insyirah-azman-022849213/)
 - 📧 Email: insyirazman@gmail.com
-- 🧠 Portfolio: [GitHub Projects](https://github.com/yourusername) | [Kaggle Projects](https://www.kaggle.com/insyirahazman)
+- 🧠 Portfolio: [GitHub Projects](https://github.com/insyirahazman) | [Kaggle Projects](https://www.kaggle.com/insyirahazman)
