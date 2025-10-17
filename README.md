@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nur Insyirah Iman Mohd Azman
+# 👋 Hi, I'm Insyirah Azman
 
 🎓 Final-year Computer Science (AI) student at Multimedia University (MMU)  
 🧠 Technical Intern at IPS, MMU — focused on AI-driven medical research and Parkinson’s Disease detection  
