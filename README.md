@@ -38,6 +38,6 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/insyirah-azman-022849213/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/insyirah-azman-022849213/)
 - 📧 Email: insyirazman@gmail.com
 - 🧠 Portfolio: [GitHub Projects](https://github.com/yourusername) | [Kaggle Projects](https://www.kaggle.com/insyirahazman)
