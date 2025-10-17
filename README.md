@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Insyirah 👋
+I'm a final-year AI student passionate about machine learning for healthcare and education. Currently interning at IPS, MMU, working on Parkinson's detection using gait analysis.
 
-<!--
-**insyirahazman/insyirahazman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- Python, pandas, scikit-learn, matplotlib
+- Feature engineering, model interpretability, data visualization
 
-Here are some ideas to get you started:
+## 📚 Projects
+- Titanic Survival Prediction (Random Forest, XGBoost)
+- Parkinson’s Disease Detection (Deep Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Email](mailto:your.email@example.com)
