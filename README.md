@@ -40,7 +40,7 @@
 | **Programming**       | Python, Java, C++, HTML, CSS, JavaScript                                           |
 | **Data Science**      | pandas, NumPy, scikit-learn, XGBoost, TensorFlow                                   |
 | **Modeling**          | Random Forest, Logistic Regression, GridSearchCV, MLPClassifier                    |
-| **Web Development**   | React.js, TailwindCSS, Node.js, REST APIs                                          |
+| **Web Development**   | React.js, TailwindCSS, Node.js, Twelve Data API                                          |
 | **Data Processing**   | Imputation, outlier detection, encoding, scaling, feature selection                |
 | **Visualization**     | Matplotlib, Seaborn, Power BI                                                      |
 | **Workflow**          | GitHub, Jupyter Notebook, Markdown, technical documentation                        |
