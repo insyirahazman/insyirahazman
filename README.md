@@ -49,10 +49,11 @@
 ---
 
 ## 🏅 Certifications & Achievements
-- 🎓 **Google Cloud Data Practitioner** *(in progress)*  
-- 🏆 **Kaggle Contributor** — Data Cleaning, EDA & ML Projects  
-- 💼 **Yayasan Telekom Malaysia (TM) Scholar**  
-- 📖 **Intern at Institute for Postgraduate Studies (IPS), MMU**  
+- **Google Cloud Certificate Professional Machine Learning Engineer** (in progress)
+- [**Google Cloud Certificate Associate Data Practitioner**](https://www.credly.com/badges/59bbb069-f9c9-4014-bef8-a44c83d60ac8/public_url)
+- **Kaggle Contributor** — Data Cleaning, EDA & ML Projects  
+- **Yayasan Telekom Malaysia (TM) Scholar**  
+- **Intern at Institute for Postgraduate Studies (IPS), MMU**  
 
 ---
 
