@@ -12,7 +12,7 @@
 ## 🔭 Currently Working On
 - Developing my personal **AI & portfolio website** using React and Vite  
 - Exploring **machine learning interpretability** for healthcare data  
-- Preparing for the **Google Cloud Data Practitioner** certification
+- Preparing for the **Google Cloud Machine Learning Engineer** certification
 
 ## 🌱 Currently Learning
 - **Google Cloud** for data & AI workflows  
