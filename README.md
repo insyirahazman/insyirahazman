@@ -29,7 +29,7 @@
 | Parkinson’s Disease Detection | Deep learning gait analysis using time-series data | Python, TensorFlow |
 | [Titanic Survival Prediction](https://github.com/insyirahazman/Titanic-Predictions-with-Random-Forests) | Kaggle competition model with feature engineering & Random Forest | Python, scikit-learn |
 | [BI Dataset Cleaning](https://github.com/insyirahazman/BI-Data-Cleaning-and-EDA) | Exploratory data analysis and preprocessing for BI data | Python, Pandas, Seaborn |
-| [Stock Analysis Website](https://github.com/insyirahazman/Stock-Analysis-Web) | Stock analysis website called MyStocks using Twelve Data API | HTML, CSS, JavaScript |
+| [Stock Analysis Website](https://github.com/insyirahazman/Stock-Analysis-Web) | Stock analysis website called MyStocks with TradingView charts | HTML, CSS, JavaScript, Twelve Data API |
 
 ---
 
