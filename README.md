@@ -29,7 +29,7 @@
 | Parkinson’s Disease Detection | Deep learning gait analysis using time-series data | Python, TensorFlow |
 | [Titanic Survival Prediction](https://github.com/insyirahazman/Titanic-Predictions-with-Random-Forests) | Kaggle competition model with feature engineering & Random Forest | Python, scikit-learn |
 | [BI Dataset Cleaning](https://github.com/insyirahazman/BI-Data-Cleaning-and-EDA) | Exploratory data analysis and preprocessing for BI data | Python, Pandas, Seaborn |
-| [Portfolio Website](https://github.com/insyirahazman/my-portfolio) (In Progress) | Personal portfolio built using React and Vite | HTML, CSS, React.js |
+| [Stock Analysis Website]([https://github.com/insyirahazman/Stock-Analysis-Web]) | Stock analysis website called MyStocks using Twelve Data API | HTML, CSS, JavaScript |
 
 ---
 
@@ -40,9 +40,9 @@
 | **Programming**       | Python, Java, C++, HTML, CSS, JavaScript                                           |
 | **Data Science**      | pandas, NumPy, scikit-learn, XGBoost, TensorFlow                                   |
 | **Modeling**          | Random Forest, Logistic Regression, GridSearchCV, MLPClassifier                    |
-| **Web Development**   | React.js, TailwindCSS, Node.js, Twelve Data API                                          |
+| **Web Development**   | React.js, TailwindCSS, Vite, Twelve Data API                                    |
 | **Data Processing**   | Imputation, outlier detection, encoding, scaling, feature selection                |
-| **Visualization**     | Matplotlib, Seaborn, Power BI                                                      |
+| **Visualization**     | Matplotlib, Seaborn                                                                |
 | **Workflow**          | GitHub, Jupyter Notebook, Markdown, technical documentation                        |
 | **Research Interests**| AI for healthcare & education, interpretability, fairness, reproducible pipelines  |
 
