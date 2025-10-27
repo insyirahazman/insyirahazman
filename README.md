@@ -37,10 +37,10 @@
 
 | Category              | Tools & Techniques                                                                 |
 |-----------------------|-------------------------------------------------------------------------------------|
-| **Programming**       | Assembly Language, Python, Java, C++, HTML, CSS, JavaScript, LISP                   |
+| **Programming**       | Assembly Language, Python, Java, C++, HTML, CSS, JavaScript, LISP, SQL             |
 | **Data Science**      | pandas, NumPy, scikit-learn, XGBoost, TensorFlow                                   |
-| **Modeling**          | Random Forest, Logistic Regression, GridSearchCV, MLPClassifier, LSTM                    |
-| **Web Development**   | React.js, TailwindCSS, Vite, Twelve Data API                                    |
+| **Modeling**          | Random Forest, Logistic Regression, GridSearchCV, MLPClassifier, LSTM              |
+| **Web Development**   | React.js, TailwindCSS, Vite, Twelve Data API                                       |
 | **Data Processing**   | Imputation, outlier detection, encoding, scaling, feature selection                |
 | **Visualization**     | Matplotlib, Seaborn                                                                |
 | **Workflow**          | GitHub, Jupyter Notebook, Markdown, technical documentation                        |
