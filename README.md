@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Insyirah Azman**
 
-> 🎯 Passionate about AI, data science, and building meaningful, human-centered technology.
+> Passionate about AI, data science, and building meaningful, human-centered technology.
 
 🎓 Final-year **Computer Science (Artificial Intelligence)** student at Multimedia University (MMU)  
 🧠 **AI and Research Intern** at IPS, MMU — focused on AI-driven medical research and Parkinson’s Disease detection  
