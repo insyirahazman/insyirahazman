@@ -22,14 +22,14 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
 | Project | Description | Stack |
 |----------|--------------|-------|
-| Parkinson’s Disease Detection | Deep learning gait analysis using time-series data | Python, TensorFlow |
-| [Titanic Survival Prediction](https://github.com/insyirahazman/Titanic-Predictions-with-Random-Forests) | Kaggle competition model with feature engineering & Random Forest | Python, scikit-learn |
-| [BI Dataset Cleaning](https://github.com/insyirahazman/BI-Data-Cleaning-and-EDA) | Exploratory data analysis and preprocessing for BI data | Python, Pandas, Seaborn |
-| [Stock Analysis Website](https://github.com/insyirahazman/Stock-Analysis-Web) | Stock analysis website called MyStocks with TradingView charts | HTML, CSS, JavaScript, Twelve Data API |
+| **Parkinson’s Disease Detection** | Deep learning gait analysis using time-series data for early Parkinson’s detection | Python, TensorFlow |
+| [**Customer Churn & Monthly Spend Prediction**](https://github.com/insyirahazman/Customer-Churn-and-Monthly-Spend-Prediction) | Predicts customer churn and monthly spending using classification and regression ML models | Python, scikit-learn, Gradio |
+| [**Malaysia Car Price Prediction**](https://github.com/insyirahazman/Malaysia-Car-Price-Prediction) | Predicts car resale prices in Malaysia with real-world data, deployed via Gradio on Hugging Face | Python, Pandas, scikit-learn, Gradio |
+| [**Stock Analysis Website**](https://github.com/insyirahazman/Stock-Analysis-Web) | Stock analysis website with TradingView charts and real-time Twelve Data API integration | HTML, CSS, JavaScript, API |
 
 ---
 
@@ -70,4 +70,4 @@
 
 ---
 
-> 💬 *“Driven by curiosity, grounded in ethics — building AI and software that make an impact.”*
+> 💬 *“Still learning, still curious, still coding.”*
