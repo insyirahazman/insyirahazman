@@ -59,10 +59,14 @@ AI for healthcare, machine learning interpretability, responsible AI, and reprod
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=insyirahazman&theme=default&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=insyirahazman&theme=default&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://streak-stats.demolab.com?user=insyirahazman&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=insyirahazman&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insyirahazman&layout=compact&hide_border=true&langs_count=8" height="160"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=insyirahazman&hide_border=true" width="90%"/>
+</p>
 ---
 
 ## Connect With Me
