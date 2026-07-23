@@ -20,7 +20,7 @@ Location: Selangor, Malaysia
 | Project | Description | Technologies |
 |----------|-------------|--------------|
 | [**Parkinson's Disease Detection Using Gait Analysis**](https://github.com/insyirahazman/FYP_Parkinson_Disease) | Developed an AI-based framework for Parkinson's Disease classification using human pose estimation, feature engineering, and LSTM deep learning models. | Python, TensorFlow, LSTM, AlphaPose |
-| [**E-Commerce Reviews Sentiment Analysis**](https://github.com/) | Built an NLP-based sentiment analysis dashboard to classify Malaysian e-commerce reviews using traditional machine learning and transformer-based approaches. | Python, NLP, DistilBERT, Streamlit |
+| [**E-Commerce Reviews Sentiment Analysis**](https://github.com/pangtengg/ecom-reviews-sentiment-analysis) | Built an NLP-based sentiment analysis dashboard to classify Malaysian e-commerce reviews using traditional machine learning and transformer-based approaches. | Python, NLP, DistilBERT, Streamlit |
 | [**MYStocks - Stock Analysis Website**](https://github.com/insyirahazman/Stock-Analysis-Web) | Developed a web-based stock analysis platform with real-time market data, interactive charts, technical indicators, and LSTM-based prediction insights. | HTML, CSS, JavaScript, APIs |
 | [**Malaysia Car Price Prediction**](https://github.com/insyirahazman/Malaysia-Car-Price-Prediction) | Developed regression models to predict used car prices using real-world Malaysian automotive data and machine learning techniques. | Python, Pandas, Scikit-learn, Gradio |
 
