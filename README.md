@@ -50,6 +50,7 @@ AI for healthcare, machine learning interpretability, responsible AI, and reprod
 
 ## Certifications & Achievements
 
+- [**PeopleCert AIOps Foundation**](https://badges.peoplecert.org/Badge/en/C62B47AA-E7E1-4F07-A6FD-FF5901398517%22%20title=%22AIO)
 - [**Google Cloud Professional Machine Learning Engineer**](https://www.credly.com/badges/7aa0007e-f152-43de-b172-1ed778aae697/public_url)
 - [**Google Cloud Associate Data Practitioner**](https://www.credly.com/badges/59bbb069-f9c9-4014-bef8-a44c83d60ac8/public_url)
 - [**Kaggle Contributor**](https://www.kaggle.com/insyirahazman) — Data Cleaning, Exploratory Data Analysis, and Machine Learning Projects
@@ -59,6 +60,7 @@ AI for healthcare, machine learning interpretability, responsible AI, and reprod
 ## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insyirahazman&layout=compact&theme=calm_pink&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=insyirahazman&theme=default&hide_border=true)
 
 ---
 
