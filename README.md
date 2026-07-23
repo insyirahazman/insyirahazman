@@ -1,73 +1,70 @@
-# 👋 Hi, I'm **Insyirah Azman**
+# Hi, I'm Insyirah Azman
 
-> Passionate about AI, data science, and building meaningful, human-centered technology.
+AI enthusiast passionate about building intelligent, data-driven, and human-centered solutions.
 
-🎓 Final-year **Computer Science (Artificial Intelligence)** student at Multimedia University (MMU)  
-🧠 **AI and Research Intern** at IPS, MMU — focused on AI-driven medical research and Parkinson’s Disease detection  
-💡 **Yayasan Telekom Malaysia (TM) Scholar**  
-📍 Based in Selangor, Malaysia  
+I recently completed my Bachelor of Computer Science (Artificial Intelligence) at Multimedia University (MMU) and am currently awaiting my final semester results, with an expected graduation in December 2026.
 
----
+I have experience in AI research, machine learning, data analysis, and software development, with a particular interest in applying AI to healthcare and real-world applications.
 
-## 🔭 Currently Working On
-- Developing my personal **AI & portfolio website** using React and Vite  
-- Exploring **machine learning interpretability** for healthcare data  
-- Preparing for the **Google Cloud Machine Learning Engineer** certification
+**AI & Research Intern** at IPS, MMU  
+Focused on AI-driven medical research and Parkinson's Disease detection using gait analysis.
 
-## 🌱 Currently Learning
-- **Google Cloud** for data & AI workflows  
-- **Power BI** for data visualization  
-- **Model evaluation, bias & fairness** in ML systems  
-- **React.js** and **TailwindCSS** for frontend development
+**Yayasan Telekom Malaysia (TM) Scholar**
+
+Location: Selangor, Malaysia
 
 ---
 
-## 🚀 Featured Projects  
+## Projects
 
-| Project | Description | Stack |
-|----------|--------------|-------|
-| **Parkinson’s Disease Detection** | Deep learning gait analysis using time-series data for early Parkinson’s detection | Python, TensorFlow |
-| [**Customer Churn & Monthly Spend Prediction**](https://github.com/insyirahazman/Customer-Churn-and-Monthly-Spend-Prediction) | Predicts customer churn and monthly spending using classification and regression ML models | Python, scikit-learn, Gradio |
-| [**Malaysia Car Price Prediction**](https://github.com/insyirahazman/Malaysia-Car-Price-Prediction) | Predicts car resale prices in Malaysia with real-world data, deployed via Gradio on Hugging Face | Python, Pandas, scikit-learn, Gradio |
-| [**Stock Analysis Website**](https://github.com/insyirahazman/Stock-Analysis-Web) | Stock analysis website with TradingView charts and real-time Twelve Data API integration | HTML, CSS, JavaScript, API |
-
----
-
-## 🧠 Skills & Tools
-
-| Category              | Tools & Techniques                                                                 |
-|-----------------------|-------------------------------------------------------------------------------------|
-| **Programming**       | Assembly Language, Python, Java, C++, HTML, CSS, JavaScript, LISP, SQL             |
-| **Data Science**      | pandas, NumPy, scikit-learn, XGBoost, TensorFlow                                   |
-| **Modeling**          | Random Forest, Logistic Regression, GridSearchCV, MLPClassifier, LSTM              |
-| **Web Development**   | React.js, TailwindCSS, Vite, Twelve Data API                                       |
-| **Data Processing**   | Imputation, outlier detection, encoding, scaling, feature selection                |
-| **Visualization**     | Matplotlib, Seaborn                                                                |
-| **Workflow**          | GitHub, Jupyter Notebook, Markdown, technical documentation                        |
-| **Research Interests**| AI for healthcare & education, interpretability, fairness, reproducible pipelines  |
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| **Parkinson's Disease Detection Using Gait Analysis** | Developed an AI-based framework for Parkinson's Disease classification using human pose estimation, feature engineering, and LSTM deep learning models. | Python, TensorFlow, LSTM, AlphaPose |
+| [**E-Commerce Reviews Sentiment Analysis**](https://github.com/) | Built an NLP-based sentiment analysis dashboard to classify Malaysian e-commerce reviews using traditional machine learning and transformer-based approaches. | Python, NLP, DistilBERT, Streamlit |
+| [**MYStocks - Stock Analysis Website**](https://github.com/insyirahazman/Stock-Analysis-Web) | Developed a web-based stock analysis platform with real-time market data, interactive charts, technical indicators, and LSTM-based prediction insights. | HTML, CSS, JavaScript, APIs |
+| [**Malaysia Car Price Prediction**](https://github.com/insyirahazman/Malaysia-Car-Price-Prediction) | Developed regression models to predict used car prices using real-world Malaysian automotive data and machine learning techniques. | Python, Pandas, Scikit-learn, Gradio |
 
 ---
 
-## 🏅 Certifications & Achievements
-- **Google Cloud Certificate Professional Machine Learning Engineer** (in progress)
-- [**Google Cloud Certificate Associate Data Practitioner**](https://www.credly.com/badges/59bbb069-f9c9-4014-bef8-a44c83d60ac8/public_url)
-- [**Kaggle Contributor**](https://www.kaggle.com/insyirahazman) - Data Cleaning, EDA & ML Projects
+## Technical Skills
+
+**Programming Languages**  
+Python, Java, C++, JavaScript, HTML, CSS, SQL
+
+**Artificial Intelligence & Machine Learning**  
+TensorFlow, Scikit-learn, NumPy, Pandas, XGBoost, LSTM, Random Forest, Logistic Regression, Model Evaluation
+
+**Data Science & Analytics**  
+Data preprocessing, feature engineering, feature selection, exploratory data analysis, data visualization
+
+**Web Development**  
+React.js, TailwindCSS, Vite, JavaScript, API Integration
+
+**Tools & Workflow**  
+GitHub, Jupyter Notebook, Google Cloud Platform, Power BI, Markdown
+
+**Research Interests**  
+AI for healthcare, machine learning interpretability, responsible AI, and reproducible ML workflows
 
 ---
 
-## 📊 GitHub Stats
+## Certifications & Achievements
+
+- [**Google Cloud Professional Machine Learning Engineer**](https://www.credly.com/badges/7aa0007e-f152-43de-b172-1ed778aae697/public_url)
+- [**Google Cloud Associate Data Practitioner**](https://www.credly.com/badges/59bbb069-f9c9-4014-bef8-a44c83d60ac8/public_url)
+- [**Kaggle Contributor**](https://www.kaggle.com/insyirahazman) — Data Cleaning, Exploratory Data Analysis, and Machine Learning Projects
+
+---
+
+## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insyirahazman&layout=compact&theme=calm_pink&hide_border=true)
 
 ---
 
-## 📫 Let's Connect
+## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Insyirah%20Azman-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/insyirah-azman-022849213/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/insyirahazman)
-[![GitHub](https://img.shields.io/badge/GitHub-insyirahazman-181717?logo=github)](https://github.com/insyirahazman)
-📧 **Email:** [insyirazman@gmail.com](mailto:insyirazman@gmail.com)
-
----
-
-> 💬 *“Still learning, still curious, still coding.”*
+[LinkedIn](https://www.linkedin.com/in/insyirah-azman-022849213/)  
+[Kaggle](https://www.kaggle.com/insyirahazman)  
+[GitHub](https://github.com/insyirahazman)  
+Email: insyirazman@gmail.com
