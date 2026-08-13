@@ -61,8 +61,6 @@ AI for healthcare, machine learning interpretability, responsible AI, and reprod
 
 <img src="https://github-readme-stats.vercel.app/api?username=insyirahazman&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insyirahazman&layout=compact&hide_border=true&langs_count=8" height="160"/>
-
 ---
 
 ## Connect With Me
