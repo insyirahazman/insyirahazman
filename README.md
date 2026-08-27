@@ -1,17 +1,24 @@
 # Hi, I'm Insyirah Azman
-
 AI enthusiast passionate about building intelligent, data-driven, and human-centered solutions.
-
-I recently completed my Bachelor of Computer Science (Artificial Intelligence) at Multimedia University (MMU) and am currently awaiting my final semester results, with an expected graduation in December 2026.
-
+I recently completed my Bachelor of Computer Science (Artificial Intelligence) at Multimedia University (MMU), with an expected graduation in December 2026.
 I have experience in AI research, machine learning, data analysis, and software development, with a particular interest in applying AI to healthcare and real-world applications.
 
-**AI & Research Intern** at IPS, MMU  
+**AI & Research Intern** at IPS, MMU *(Jul 2025 – Oct 2025)*  
 Focused on AI-driven medical research and Parkinson's Disease detection using gait analysis.
 
-**Yayasan Telekom Malaysia (TM) Scholar**
+**Research Assistant** — Image Recognition and Classification of Menstrual Blood for Muslim Women *(Feb 2025 – Jul 2025)*  
 
+**Yayasan Telekom Malaysia (TM) Scholar**
 Location: Selangor, Malaysia
+
+---
+
+## 📄 Publications
+
+**Classification of Menstrual Blood Color Using Deep Learning with Class Imbalance Handling**  
+*Accepted at IICAIET 2026 (International Conference on Artificial Intelligence for Engineering and Technology)*  
+Developed a deep learning framework to classify menstrual blood color for health monitoring applications, addressing class imbalance in medical image data through targeted resampling and loss-weighting strategies.  
+🔗 [Repository](https://github.com/insyirahazman/menstrual-blood-color-classification) · Presentation pending
 
 ---
 
@@ -49,7 +56,6 @@ AI for healthcare, machine learning interpretability, responsible AI, and reprod
 ---
 
 ## Certifications & Achievements
-
 - [**PeopleCert AIOps Foundation**](https://badges.peoplecert.org/Badge/en/C62B47AA-E7E1-4F07-A6FD-FF5901398517%22%20title=%22AIO)
 - [**Google Cloud Professional Machine Learning Engineer**](https://www.credly.com/badges/7aa0007e-f152-43de-b172-1ed778aae697/public_url)
 - [**Google Cloud Associate Data Practitioner**](https://www.credly.com/badges/59bbb069-f9c9-4014-bef8-a44c83d60ac8/public_url)
@@ -58,13 +64,11 @@ AI for healthcare, machine learning interpretability, responsible AI, and reprod
 ---
 
 ## GitHub Stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=insyirahazman&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
 
 ---
 
 ## Connect With Me
-
 [LinkedIn](https://www.linkedin.com/in/insyirah-azman-022849213/)  
 [Kaggle](https://www.kaggle.com/insyirahazman)  
 [GitHub](https://github.com/insyirahazman)  
