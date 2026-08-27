@@ -5,8 +5,6 @@ I have experience in AI research, machine learning, data analysis, and software 
 
 **AI & Research Intern** at IPS, MMU *(Jul 2025 – Oct 2025)*
 
-Focused on AI-driven medical research and Parkinson's Disease detection using gait analysis.
-
 **Research Assistant** — Image Recognition and Classification of Menstrual Blood for Muslim Women *(Feb 2025 – Jul 2025)*  
 
 **Yayasan Telekom Malaysia (TM) Scholar**
