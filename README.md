@@ -31,33 +31,19 @@ Developed a deep learning framework to classify menstrual blood color for health
 
 ## Technical Skills
 
-**Programming Languages**
+**Programming Languages**: Python, Java, C++, JavaScript, HTML, CSS, SQL
 
-Python, Java, C++, JavaScript, HTML, CSS, SQL
+**Artificial Intelligence & Machine Learning**: TensorFlow, Scikit-learn, NumPy, Pandas, XGBoost, LSTM, Random Forest, Logistic Regression, NLP, Model Evaluation
 
-**Artificial Intelligence & Machine Learning**
+**Data Science & Analytics**: Data preprocessing, feature engineering, feature selection, exploratory data analysis, data visualization
 
-TensorFlow, Scikit-learn, NumPy, Pandas, XGBoost, LSTM, Random Forest, Logistic Regression, NLP, Model Evaluation
+**AI & NLP**: LangChain, Hugging Face, BART, DistilBERT, document processing, LLM application development
 
-**Data Science & Analytics**
+**Web Development**: React.js, TailwindCSS, Vite, JavaScript, API Integration, Streamlit, Gradio
 
-Data preprocessing, feature engineering, feature selection, exploratory data analysis, data visualization
+**Cloud & Tools**: Google Cloud Platform, Vertex AI, BigQuery, GitHub, Jupyter Notebook, Power BI
 
-**AI & NLP**
-
-LangChain, Hugging Face, BART, DistilBERT, document processing, LLM application development
-
-**Web Development**
-
-React.js, TailwindCSS, Vite, JavaScript, API Integration, Streamlit, Gradio
-
-**Cloud & Tools**
-
-Google Cloud Platform, Vertex AI, BigQuery, GitHub, Jupyter Notebook, Power BI
-
-**Research Interests**
-
-AI for healthcare, machine learning interpretability, responsible AI, natural language processing, and reproducible ML workflows
+**Research Interests**: AI for healthcare, machine learning interpretability, responsible AI, natural language processing, and reproducible ML workflows
 
 ---
 
