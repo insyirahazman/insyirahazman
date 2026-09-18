@@ -56,10 +56,20 @@ AI for healthcare, machine learning interpretability, responsible AI, natural la
 
 ## Certifications & Achievements
 
-* [**Google Cloud Professional Machine Learning Engineer**](https://www.credly.com/badges/7aa0007e-f152-43de-b172-1ed778aae697/public_url)
-* [**Google Cloud Associate Data Practitioner**](https://www.credly.com/badges/59bbb069-f9c9-4014-bef8-a44c83d60ac8/public_url)
-* [**PeopleCert AIOps Foundation**](https://badges.peoplecert.org/Badge/en/C62B47AA-E7E1-4F07-A6FD-FF5901398517)
-* [**Kaggle Contributor**](https://www.kaggle.com/insyirahazman) — Data Cleaning, Exploratory Data Analysis, and Machine Learning Projects
+### Professional Certifications
+
+* [**Google Cloud Professional Machine Learning Engineer**](https://www.credly.com/badges/7aa0007e-f152-43de-b172-1ed778aae697/public_url) — Google Cloud (Expires Dec 2027)
+* [**Google Cloud Associate Data Practitioner**](https://www.credly.com/badges/59bbb069-f9c9-4014-bef8-a44c83d60ac8/public_url) — Google Cloud (Expires Oct 2028)
+* [**PeopleCert AIOps Foundation**](https://badges.peoplecert.org/Badge/en/C62B47AA-E7E1-4F07-A6FD-FF5901398517) — PeopleCert (Expires Mar 2029)
+* [**CCNA: Introduction to Networks**](https://www.credly.com/badges/16a2ac61-8ad9-4d47-b23c-2adc16a4c747) — Cisco
+
+### Digital Skills Certifications
+
+* [**ICDL Digital Marketing**](https://profile.icdlasia.org/ea431cc6-f718-4696-8d45-d01a51b8cb89#acc.zBv7xpak) — ICDL Asia
+* [**ICDL Spreadsheets**](https://profile.icdlasia.org/a66ebedf-3a7f-4587-9618-cd07866f701a#acc.fmakcqod) — ICDL Asia
+* [**ICDL Presentation**](https://profile.icdlasia.org/484d20f4-6dca-427f-8fa9-23641933e242#acc.m2CXrBLp) — ICDL Asia
+* [**ICDL Teamwork**](https://profile.icdlasia.org/0f2b2369-7fc6-45bc-8597-0305c0e6ddcc#acc.xV4oByIM) — ICDL Asia
+* [**ICDL Documents**](https://profile.icdlasia.org/fdaaf6e0-23e3-4402-9198-24153d0ff6f9#acc.9fRTP0Qc) — ICDL Asia
 
 ---
 
