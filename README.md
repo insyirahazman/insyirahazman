@@ -76,6 +76,9 @@ AI for healthcare, machine learning interpretability, responsible AI, natural la
 ## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/insyirah-azman-022849213/)
+
 [Kaggle](https://www.kaggle.com/insyirahazman)
+
 [GitHub](https://github.com/insyirahazman)
+
 Email: [insyirazman@gmail.com](mailto:insyirazman@gmail.com)
